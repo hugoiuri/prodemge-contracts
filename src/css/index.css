@@ -6,3 +6,15 @@
   margin-top: 70px;
   height: 550px;
 }
+
+.tooltip-table {
+  width: 100%;
+}
+
+.tooltip-table .data {
+  text-align: right;
+}
+
+.tooltip-footer {
+  opacity: 0.5;
+}
