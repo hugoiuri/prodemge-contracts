@@ -1,16 +1,15 @@
 import React, { Component } from 'react';
 
-import { Header, TreemapView } from '../components';
+import { Header, Contract } from '../components';
 
-export default class HomePage extends Component {
+export default class ContractPage extends Component {
 
   render() {
     return (
       <div>
         <Header />
         <div className="container-fluid">
-          <TreemapView />
-          test
+          <Contract />
         </div>
       </div>
     );
