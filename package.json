@@ -1,6 +1,7 @@
 {
   "name": "prodemgecontracts",
   "version": "0.1.0",
+  "homepage" : "http://hugoiuri.github.io/prodemge-contracts",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.3",
