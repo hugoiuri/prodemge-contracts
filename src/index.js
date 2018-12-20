@@ -11,7 +11,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route path="/" exact={true} component={HomePage} />
-      <Route path="/contract/:codigocontrato" component={ContractPage} />
+      <Route path="/contract/:id" component={ContractPage} />
     </Switch>
   </BrowserRouter>, document.getElementById('root'));
 serviceWorker.unregister();

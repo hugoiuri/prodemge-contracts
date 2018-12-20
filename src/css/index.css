@@ -7,6 +7,10 @@
   height: 550px;
 }
 
+.page {
+  margin-top: 70px;
+}
+
 .tooltip-table {
   width: 100%;
 }

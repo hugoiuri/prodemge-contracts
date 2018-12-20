@@ -143,7 +143,7 @@
       "Meses_corridos": 9,
       "MediaFaturamentoMensal": 41418,
       "Saldo_valor_em_meses": 1166010,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -164,7 +164,7 @@
       "Meses_corridos": 11,
       "MediaFaturamentoMensal": "41,18",
       "Saldo_valor_em_meses": 302,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -185,7 +185,7 @@
       "Meses_corridos": 8,
       "MediaFaturamentoMensal": "0,5",
       "Saldo_valor_em_meses": 7,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -206,7 +206,7 @@
       "Meses_corridos": 7,
       "MediaFaturamentoMensal": "76107,71",
       "Saldo_valor_em_meses": "60344,2",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com faturamento superior ao valor contratado"
     },
     {
@@ -290,7 +290,7 @@
       "Meses_corridos": 1,
       "MediaFaturamentoMensal": 0,
       "Saldo_valor_em_meses": 118944,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -416,7 +416,7 @@
       "Meses_corridos": 14,
       "MediaFaturamentoMensal": "884985,93",
       "Saldo_valor_em_meses": "779160,7",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -479,7 +479,7 @@
       "Meses_corridos": 12,
       "MediaFaturamentoMensal": 0,
       "Saldo_valor_em_meses": "82970,5",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -647,7 +647,7 @@
       "Meses_corridos": 1,
       "MediaFaturamentoMensal": 0,
       "Saldo_valor_em_meses": "8402,18181818182",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -815,7 +815,7 @@
       "Meses_corridos": 11,
       "MediaFaturamentoMensal": "7,64",
       "Saldo_valor_em_meses": 37,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -899,7 +899,7 @@
       "Meses_corridos": 7,
       "MediaFaturamentoMensal": "0,14",
       "Saldo_valor_em_meses": "12,6666666666667",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -941,7 +941,7 @@
       "Meses_corridos": 5,
       "MediaFaturamentoMensal": "1245,2",
       "Saldo_valor_em_meses": "9,625",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -1172,7 +1172,7 @@
       "Meses_corridos": 8,
       "MediaFaturamentoMensal": "2424,75",
       "Saldo_valor_em_meses": "4849,5",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -1193,7 +1193,7 @@
       "Meses_corridos": 7,
       "MediaFaturamentoMensal": "1,14",
       "Saldo_valor_em_meses": "19,8",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -1319,7 +1319,7 @@
       "Meses_corridos": 10,
       "MediaFaturamentoMensal": 60192,
       "Saldo_valor_em_meses": 904434,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -1466,7 +1466,7 @@
       "Meses_corridos": 4,
       "MediaFaturamentoMensal": "1729,5",
       "Saldo_valor_em_meses": "2739,75",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -1550,7 +1550,7 @@
       "Meses_corridos": 1,
       "MediaFaturamentoMensal": 0,
       "Saldo_valor_em_meses": "8732,72727272727",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -1844,7 +1844,7 @@
       "Meses_corridos": 4,
       "MediaFaturamentoMensal": "210157,75",
       "Saldo_valor_em_meses": "29792,625",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -1928,7 +1928,7 @@
       "Meses_corridos": 1,
       "MediaFaturamentoMensal": 0,
       "Saldo_valor_em_meses": "10241,4545454545",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -1970,7 +1970,7 @@
       "Meses_corridos": 1,
       "MediaFaturamentoMensal": 0,
       "Saldo_valor_em_meses": "1071,27272727273",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -1991,7 +1991,7 @@
       "Meses_corridos": 84,
       "MediaFaturamentoMensal": "427550,89",
       "Saldo_valor_em_meses": "731981,105263158",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -2138,7 +2138,7 @@
       "Meses_corridos": 21,
       "MediaFaturamentoMensal": 1325009,
       "Saldo_valor_em_meses": "2178717,3",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com faturamento superior ao valor contratado"
     },
     {
@@ -2159,7 +2159,7 @@
       "Meses_corridos": 20,
       "MediaFaturamentoMensal": "0,45",
       "Saldo_valor_em_meses": "39995,5454545455",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2411,7 +2411,7 @@
       "Meses_corridos": 11,
       "MediaFaturamentoMensal": "4472,73",
       "Saldo_valor_em_meses": 104499,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -2495,7 +2495,7 @@
       "Meses_corridos": 11,
       "MediaFaturamentoMensal": "3161,45",
       "Saldo_valor_em_meses": 43020,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -2537,7 +2537,7 @@
       "Meses_corridos": 11,
       "MediaFaturamentoMensal": "340,36",
       "Saldo_valor_em_meses": 8,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2558,7 +2558,7 @@
       "Meses_corridos": 10,
       "MediaFaturamentoMensal": 0,
       "Saldo_valor_em_meses": 860,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2600,7 +2600,7 @@
       "Meses_corridos": 9,
       "MediaFaturamentoMensal": 174,
       "Saldo_valor_em_meses": 384,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com faturamento superior ao valor contratado"
     },
     {
@@ -2621,7 +2621,7 @@
       "Meses_corridos": 9,
       "MediaFaturamentoMensal": "6,11",
       "Saldo_valor_em_meses": "14,6666666666667",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2663,7 +2663,7 @@
       "Meses_corridos": 9,
       "MediaFaturamentoMensal": "9,56",
       "Saldo_valor_em_meses": "17,6666666666667",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2684,7 +2684,7 @@
       "Meses_corridos": 8,
       "MediaFaturamentoMensal": "10,25",
       "Saldo_valor_em_meses": 23,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2726,7 +2726,7 @@
       "Meses_corridos": 7,
       "MediaFaturamentoMensal": "4,43",
       "Saldo_valor_em_meses": "7,8",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2747,7 +2747,7 @@
       "Meses_corridos": 6,
       "MediaFaturamentoMensal": 1253,
       "Saldo_valor_em_meses": "13,8333333333333",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2789,7 +2789,7 @@
       "Meses_corridos": 6,
       "MediaFaturamentoMensal": "3736,67",
       "Saldo_valor_em_meses": 7796,
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2831,7 +2831,7 @@
       "Meses_corridos": 6,
       "MediaFaturamentoMensal": "4,17",
       "Saldo_valor_em_meses": "477,333333333333",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2873,7 +2873,7 @@
       "Meses_corridos": 7,
       "MediaFaturamentoMensal": "1205,57",
       "Saldo_valor_em_meses": "6,4",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Faturamentos e pagamentos em dia"
     },
     {
@@ -2936,7 +2936,7 @@
       "Meses_corridos": 5,
       "MediaFaturamentoMensal": "66678,6",
       "Saldo_valor_em_meses": "10098,8571428571",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {
@@ -2957,7 +2957,7 @@
       "Meses_corridos": 4,
       "MediaFaturamentoMensal": "38451,5",
       "Saldo_valor_em_meses": "143749,25",
-      "ComparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+      "ComparacaoSaldo": "Contrato com média de execução inferior ao previsto em contrato",
       "StatusFaturamento": "Contrato com pagamento em aberto"
     },
     {

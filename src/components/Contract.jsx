@@ -1,33 +1,41 @@
 import React from 'react';
-import dataBase from './data.json'
+import dataBase from '../database/data.json'
 
 export default props => {
-  const { params } = this.props;
+  const { codigoContrato } = props;
 
-  if (!params.codigocontrato) return null;
+  console.log(codigoContrato);
+
+  if (!codigoContrato) return null;
 
   let dadosContrato = dataBase.find(element => {
-    if (element.CODIGOCONTRATO === params.codigocontrato) {
+    if (element._IDCNT.toString() === codigoContrato) {
       return true
     } else {
       return false
     }
   });
 
+  console.log(dadosContrato);
+
   return (
     <div>
-      <h2>Detalhes do contrato</h2>
-      <h3>Status da vigência{dadosContrato.Status}</h3>
-      <h3>Status detalhado{dadosContrato.ComparacaoSaldo}</h3>
-      <h3>Status dos faturamentos{dadosContrato.StatusFaturamento}</h3>
-      <label>Cliente: {dadosContrato.Cliente}</label>
-      <label>Código do Contrato: {dadosContrato.CODIGOCONTRATO}</label>
-      <label>Data de início do contrato: {dadosContrato.DATAINICIO}</label>
-      <label>Data de término do contrato: {dadosContrato.DATAFIM}</label>
-      <label>Valor contratual: {dadosContrato.SALDOTOTALCONTRATO}</label>
-      <label>Valor total faturado: {dadosContrato.SALDOFATURAMENTOCONTRATO}</label>
-      <label>Valor total pago: {dadosContrato.SALDOFATURAPAGACONTRATO}</label>
+      <p><h2>Detalhes do contrato</h2></p>
+      <br/>
+      <p><h3 >Status da vigência: {dadosContrato.Status}</h3></p>
+      <p><h3>Status detalhado: {dadosContrato.ComparacaoSaldo}</h3></p>
+      <p><h3>Status dos faturamentos: {dadosContrato.StatusFaturamento}</h3></p>
+
+      <p>Cliente: {dadosContrato.Cliente}</p>
+      <p>Código do Contrato: {dadosContrato.CODIGOCONTRATO}</p>
+      <p>Data de início do contrato: {dadosContrato.DATAINICIO}</p>
+      <p>Data de término do contrato: {dadosContrato.DATAFIM}</p>
+      <p>Valor contratual: {dadosContrato.SALDOTOTALCONTRATO},00</p>
+      <p>Valor total faturado: {dadosContrato.SALDOFATURAMENTOCONTRATO},00</p>
+      <p>Valor total pago: {dadosContrato.SALDOFATURAPAGACONTRATO},00</p>
+      
     </div>
+    
   );
 
 }
