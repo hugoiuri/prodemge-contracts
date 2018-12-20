@@ -10,7 +10,6 @@ export default class HomePage extends Component {
         <Header />
         <div className="container-fluid">
           <TreemapView />
-          test
         </div>
       </div>
     );

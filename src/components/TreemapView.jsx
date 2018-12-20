@@ -2,22 +2,51 @@ import React from 'react';
 
 import { Treemap } from 'd3plus-react'
 
+import data from '../database/treemap.json'
+
 
 export default props => {
-  const htmlButton = "<a id='google' href='http://www.google.com' target='_blank'>Click here to go to Google</a>"
 
   const methods = {
-    groupBy: "name",
-    data: [
-      { "value": 100, "name": "alpha", "test": "a" },
-      { "value": 70, "name": "beta", "test": "b" },
-      { "value": 40, "name": "gamma", "test": "c" },
-      { "value": 15, "name": "delta", "test": "d" },
-      { "value": 5, "name": "epsilon", "test": "e" },
-      { "value": 1, "name": "zeta", "test": "f" }
-    ],
+    data,
     size: d => d.value,
-    tooltip: { "html": htmlButton }
+    groupBy: d => d.id,
+    tooltipConfig: {
+      body: d => {
+        var table = "<table class='tooltip-table'>";
+        table += "<tr><td class='title'>Número do Contrato: </td><td class='data'>" + d.number + "</td></tr>";
+        table += "<tr><td class='title'>Status: </td><td class='data'>" + d.status + "</td></tr>";
+        table += "<tr><td class='title'>Faturamento: </td><td class='data'>" + d.statusFaturamento + "</td></tr>";
+        table += "</table>";
+        return table;
+      },
+      footer: d => {
+        return "<sub class='tooltip-footer'>Dados coletados em dezembro de 2018</sub>";
+      },
+      title: d => d.id
+    },
+    on: {
+      click: d => {
+        window.location = `/contract/${d.code}`;
+      }
+    },
+    shapeConfig: {
+      fill: d => {
+        if (d.comparacaoSaldo === 'Contrato sem saldo'
+          || d.statusFaturamento === 'Contrato Vencido sem saldo'
+          || d.status === 'Vencido') {
+          return 'red'
+        }
+
+        if (d.statusFaturamento === 'Contrato com faturamento superior ao valor contratado'
+          || d.statusFaturamento === 'Contrato com pagamento em aberto'
+          || d.status === 'Renovar') {
+          return 'orange'
+        }
+
+        return 'blue';
+      }
+    }
   }
 
   return (
