@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/prodemge-hackathon-data-visualization/static/js/runtime~main.c7da5681.js"
   },
   {
-    "revision": "0020fa140a27f25c8c04",
-    "url": "/prodemge-hackathon-data-visualization/static/js/main.0020fa14.chunk.js"
+    "revision": "bf60c0192e5420143fcc",
+    "url": "/prodemge-hackathon-data-visualization/static/js/main.bf60c019.chunk.js"
   },
   {
-    "revision": "f7081d758eee14544414",
-    "url": "/prodemge-hackathon-data-visualization/static/js/1.f7081d75.chunk.js"
+    "revision": "815356c856ec6b1f492d",
+    "url": "/prodemge-hackathon-data-visualization/static/js/1.815356c8.chunk.js"
   },
   {
-    "revision": "0020fa140a27f25c8c04",
+    "revision": "bf60c0192e5420143fcc",
     "url": "/prodemge-hackathon-data-visualization/static/css/main.74e0c5bd.chunk.css"
   },
   {
-    "revision": "f7081d758eee14544414",
+    "revision": "815356c856ec6b1f492d",
     "url": "/prodemge-hackathon-data-visualization/static/css/1.758b8a15.chunk.css"
   },
   {
-    "revision": "e72f94b91b1a8295402ddd93c6025ba1",
+    "revision": "ef655364559797131c795711c69c30fe",
     "url": "/prodemge-hackathon-data-visualization/index.html"
   }
 ];

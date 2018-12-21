@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/prodemge-hackathon-data-visualization/precache-manifest.bc8b67212b8e0acc2a174964132f205e.js"
+  "/prodemge-hackathon-data-visualization/precache-manifest.84929291c23a012f9262f0e1853b5245.js"
 );
 
 workbox.clientsClaim();
