@@ -1,15 +1,15 @@
 {
-  "main.css": "/prodemge-contracts/static/css/main.74e0c5bd.chunk.css",
-  "main.js": "/prodemge-contracts/static/js/main.45bd1f5d.chunk.js",
-  "main.js.map": "/prodemge-contracts/static/js/main.45bd1f5d.chunk.js.map",
-  "static/css/1.758b8a15.chunk.css": "/prodemge-contracts/static/css/1.758b8a15.chunk.css",
-  "static/js/1.815356c8.chunk.js": "/prodemge-contracts/static/js/1.815356c8.chunk.js",
-  "static/js/1.815356c8.chunk.js.map": "/prodemge-contracts/static/js/1.815356c8.chunk.js.map",
-  "runtime~main.js": "/prodemge-contracts/static/js/runtime~main.822dcbaf.js",
-  "runtime~main.js.map": "/prodemge-contracts/static/js/runtime~main.822dcbaf.js.map",
-  "static/css/main.74e0c5bd.chunk.css.map": "/prodemge-contracts/static/css/main.74e0c5bd.chunk.css.map",
-  "static/css/1.758b8a15.chunk.css.map": "/prodemge-contracts/static/css/1.758b8a15.chunk.css.map",
-  "index.html": "/prodemge-contracts/index.html",
-  "precache-manifest.0a586232aa59ce0a255005ea430d3ff4.js": "/prodemge-contracts/precache-manifest.0a586232aa59ce0a255005ea430d3ff4.js",
-  "service-worker.js": "/prodemge-contracts/service-worker.js"
+  "main.css": "/prodemge-hackathon-data-visualization/static/css/main.74e0c5bd.chunk.css",
+  "main.js": "/prodemge-hackathon-data-visualization/static/js/main.0b25dc40.chunk.js",
+  "main.js.map": "/prodemge-hackathon-data-visualization/static/js/main.0b25dc40.chunk.js.map",
+  "static/css/1.758b8a15.chunk.css": "/prodemge-hackathon-data-visualization/static/css/1.758b8a15.chunk.css",
+  "static/js/1.815356c8.chunk.js": "/prodemge-hackathon-data-visualization/static/js/1.815356c8.chunk.js",
+  "static/js/1.815356c8.chunk.js.map": "/prodemge-hackathon-data-visualization/static/js/1.815356c8.chunk.js.map",
+  "runtime~main.js": "/prodemge-hackathon-data-visualization/static/js/runtime~main.c7da5681.js",
+  "runtime~main.js.map": "/prodemge-hackathon-data-visualization/static/js/runtime~main.c7da5681.js.map",
+  "static/css/1.758b8a15.chunk.css.map": "/prodemge-hackathon-data-visualization/static/css/1.758b8a15.chunk.css.map",
+  "static/css/main.74e0c5bd.chunk.css.map": "/prodemge-hackathon-data-visualization/static/css/main.74e0c5bd.chunk.css.map",
+  "index.html": "/prodemge-hackathon-data-visualization/index.html",
+  "precache-manifest.084074eefeb62357e7f3d4db04b730b1.js": "/prodemge-hackathon-data-visualization/precache-manifest.084074eefeb62357e7f3d4db04b730b1.js",
+  "service-worker.js": "/prodemge-hackathon-data-visualization/service-worker.js"
 }

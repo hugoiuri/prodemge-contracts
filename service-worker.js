@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/prodemge-contracts/precache-manifest.0a586232aa59ce0a255005ea430d3ff4.js"
+  "/prodemge-hackathon-data-visualization/precache-manifest.084074eefeb62357e7f3d4db04b730b1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/prodemge-contracts/index.html", {
+workbox.routing.registerNavigationRoute("/prodemge-hackathon-data-visualization/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
