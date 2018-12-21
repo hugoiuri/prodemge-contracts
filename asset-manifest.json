@@ -1,15 +1,15 @@
 {
-  "main.css": "/prodemge-hackathon-data-visualization/static/css/main.74e0c5bd.chunk.css",
-  "main.js": "/prodemge-hackathon-data-visualization/static/js/main.0b25dc40.chunk.js",
-  "main.js.map": "/prodemge-hackathon-data-visualization/static/js/main.0b25dc40.chunk.js.map",
-  "static/css/1.758b8a15.chunk.css": "/prodemge-hackathon-data-visualization/static/css/1.758b8a15.chunk.css",
-  "static/js/1.815356c8.chunk.js": "/prodemge-hackathon-data-visualization/static/js/1.815356c8.chunk.js",
-  "static/js/1.815356c8.chunk.js.map": "/prodemge-hackathon-data-visualization/static/js/1.815356c8.chunk.js.map",
-  "runtime~main.js": "/prodemge-hackathon-data-visualization/static/js/runtime~main.c7da5681.js",
-  "runtime~main.js.map": "/prodemge-hackathon-data-visualization/static/js/runtime~main.c7da5681.js.map",
-  "static/css/1.758b8a15.chunk.css.map": "/prodemge-hackathon-data-visualization/static/css/1.758b8a15.chunk.css.map",
-  "static/css/main.74e0c5bd.chunk.css.map": "/prodemge-hackathon-data-visualization/static/css/main.74e0c5bd.chunk.css.map",
-  "index.html": "/prodemge-hackathon-data-visualization/index.html",
-  "precache-manifest.084074eefeb62357e7f3d4db04b730b1.js": "/prodemge-hackathon-data-visualization/precache-manifest.084074eefeb62357e7f3d4db04b730b1.js",
-  "service-worker.js": "/prodemge-hackathon-data-visualization/service-worker.js"
+  "main.css": "/prodemge-hackathon-datavisualization/static/css/main.74e0c5bd.chunk.css",
+  "main.js": "/prodemge-hackathon-datavisualization/static/js/main.c6a7debf.chunk.js",
+  "main.js.map": "/prodemge-hackathon-datavisualization/static/js/main.c6a7debf.chunk.js.map",
+  "static/css/1.758b8a15.chunk.css": "/prodemge-hackathon-datavisualization/static/css/1.758b8a15.chunk.css",
+  "static/js/1.815356c8.chunk.js": "/prodemge-hackathon-datavisualization/static/js/1.815356c8.chunk.js",
+  "static/js/1.815356c8.chunk.js.map": "/prodemge-hackathon-datavisualization/static/js/1.815356c8.chunk.js.map",
+  "runtime~main.js": "/prodemge-hackathon-datavisualization/static/js/runtime~main.2c969ef8.js",
+  "runtime~main.js.map": "/prodemge-hackathon-datavisualization/static/js/runtime~main.2c969ef8.js.map",
+  "static/css/main.74e0c5bd.chunk.css.map": "/prodemge-hackathon-datavisualization/static/css/main.74e0c5bd.chunk.css.map",
+  "static/css/1.758b8a15.chunk.css.map": "/prodemge-hackathon-datavisualization/static/css/1.758b8a15.chunk.css.map",
+  "index.html": "/prodemge-hackathon-datavisualization/index.html",
+  "precache-manifest.0df93ec7f31a9e05a12fc23fcfa39ced.js": "/prodemge-hackathon-datavisualization/precache-manifest.0df93ec7f31a9e05a12fc23fcfa39ced.js",
+  "service-worker.js": "/prodemge-hackathon-datavisualization/service-worker.js"
 }
