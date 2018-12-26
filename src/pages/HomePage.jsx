@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-
 import { Header, TreemapView } from '../components';
 
-export default class HomePage extends Component {
+export default  class HomePage extends Component {
 
   render() {
     return (
